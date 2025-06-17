@@ -1,1 +1,1 @@
-# Coursera course assignments
+# Coursera - files and assignments

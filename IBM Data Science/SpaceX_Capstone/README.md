@@ -60,13 +60,12 @@ The goal is to build a machine learning pipeline to **predict whether the first 
 ## 🧠 Machine Learning Models
 
 1.Trained and evaluated the following classifiers:
-- Logistic Regression  
-- Support Vector Machine (SVC)  
-- Decision Tree  
-- K-Nearest Neighbors (KNN)
-
-2. Used **GridSearchCV** to tune hyperparameters  
-3. Evaluated using accuracy, precision, recall, and F1-score  
+  -  Logistic Regression
+  -  Support Vector Machine (SVC)
+  -  Decision Tree
+  -  K-Nearest Neighbors (KNN)
+2. Used **GridSearchCV** to tune hyperparameters
+3. Evaluated using accuracy, precision, recall, and F1-score
 4. Selected best-performing model based on test set metrics
 
 ---

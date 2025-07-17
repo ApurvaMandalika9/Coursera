@@ -16,9 +16,17 @@ The goal is to build a machine learning pipeline to **predict whether the first 
 ---
 
 ## 📂 Project Structure
-
-<pre> ├── spacex-data-collection-api.ipynb # Data collection using SpaceX REST API ├── spacex-data-webscraping.ipynb # Booster & landing info via Wikipedia scraping ├── spacex-Data wrangling.ipynb # Merging, cleaning, and feature engineering ├── eda_using_dataviz.ipynb # Visual EDA with Seaborn & Matplotlib ├── eda-using-sql.ipynb # SQL-based EDA using SQLite ├── spacex-launch_site_location.ipynb # Folium map of launch sites ├── spacex-dash-app.py # Interactive dashboard using Plotly Dash ├── SpaceX_Machine Learning Prediction.ipynb # Model training, tuning, and evaluation └── README.md # Project overview and documentation </pre>
-
+```
+├── spacex-data-collection-api.ipynb # Data collection using SpaceX REST API
+├── spacex-data-webscraping.ipynb # Booster & landing info via Wikipedia scraping
+├── spacex-Data wrangling.ipynb # Merging, cleaning, and feature engineering
+├── eda_using_dataviz.ipynb # Visual EDA with Seaborn & Matplotlib
+├── eda-using-sql.ipynb # SQL-based EDA using SQLite
+├── spacex-launch_site_location.ipynb # Folium map of launch sites
+├── spacex-dash-app.py # Interactive dashboard using Plotly Dash
+├── SpaceX_Machine Learning Prediction.ipynb # Model training, tuning, and evaluation
+└── README.md # Project overview and documentation 
+```
 ---
 
 ## 📡 Data Collection

@@ -16,9 +16,9 @@ The goal is to build a machine learning pipeline to **predict whether the first 
 ---
 
 ## 📂 Project Structure
-├── spacex-data-collection-api.ipynb         # Collected launch data using SpaceX REST API
-├── spacex-data-webscraping.ipynb            # Scraped Wikipedia for booster & landing outcome data
-├── spacex-Data wrangling.ipynb              # Cleaned, merged, and engineered features
+|-- spacex-data-collection-api.ipynb         # Collected launch data using SpaceX REST API
+|-- spacex-data-webscraping.ipynb            # Scraped Wikipedia for booster & landing outcome data
+|-- spacex-Data wrangling.ipynb              # Cleaned, merged, and engineered features
 ├── eda_using_dataviz.ipynb                  # Performed visual EDA using Seaborn and Matplotlib
 ├── eda-using-sql.ipynb                      # SQL-based EDA with SQLite queries
 ├── spacex-launch_site_location.ipynb        # Mapped launch and landing sites using Folium
